@@ -92,4 +92,4 @@ var CardsList = React.createClass({
     }
 });
 
-ReactDOM.render(React.createElement(CardsList, { title: "Miss World 2015 Top 20", url: "/src/data.json" }), document.getElementById('content'));
+ReactDOM.render(React.createElement(CardsList, { title: "Miss World 2015 Top 20", url: "src/data.json" }), document.getElementById('content'));
