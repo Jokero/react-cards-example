@@ -57,6 +57,6 @@ var CardsList = React.createClass({
 });
 
 ReactDOM.render(
-    <CardsList title="Miss World 2015 Top 20" url="/src/data.json"/>,
+    <CardsList title="Miss World 2015 Top 20" url="src/data.json"/>,
     document.getElementById('content')
 );
