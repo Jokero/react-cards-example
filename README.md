@@ -1,2 +1,2 @@
-# react-card-example
-React card example
+# react-cards-example
+React cards example

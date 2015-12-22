@@ -1,0 +1,40 @@
+{
+    "name":        "react-cards-example",
+    "description": "React cards example",
+    "version":     "0.0.1",
+    "private":     true,
+
+    "author": {
+        "name":  "Dmitry Kirilyuk",
+        "email": "gk.joker@gmail.com"
+    },
+
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/Jokero/react-cards-example.git"
+    },
+
+    "license": "MIT",
+
+    "dependencies": {
+        "react":         "0.14.3",
+        "react-dom":     "0.14.3",
+        "jquery":        "2.1.4",
+        "bootstrap":     "3.3.6",
+        "flag-icon-css": "0.8.4"
+    },
+
+    "devDependencies": {
+        "gulp":               "3.9.0",
+        "gulp-watch":         "4.3.5",
+        "gulp-stylus":        "2.1.1",
+        "gulp-babel":         "6.1.1",
+        "babel-preset-react": "6.3.13",
+        "connect":            "3.4.0",
+        "serve-static":       "1.10.0"
+    },
+
+    "scripts": {
+        "start": "./node_modules/.bin/gulp"
+    }
+}
