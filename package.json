@@ -28,6 +28,7 @@
         "gulp":               "3.9.0",
         "gulp-watch":         "4.3.5",
         "gulp-stylus":        "2.1.1",
+        "gulp-concat":        "2.6.0",
         "gulp-babel":         "6.1.1",
         "babel-preset-react": "6.3.13",
         "connect":            "3.4.0",

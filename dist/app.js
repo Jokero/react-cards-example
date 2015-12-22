@@ -24,7 +24,7 @@ var Card = React.createClass({
                 ),
                 React.createElement(
                     "p",
-                    null,
+                    { className: "card-info-description" },
                     this.props.data.description
                 )
             ),
