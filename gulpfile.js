@@ -16,7 +16,7 @@ gulp.task('scripts:vendor', function () {
 
     return gulp.src(vendorScripts)
                .pipe(concat('vendor.js'))
-               .pipe(gulp.dest('dist'));
+               .pipe(gulp.dest('dist/scripts'));
 });
 
 gulp.task('scripts:app', function () {
@@ -25,7 +25,7 @@ gulp.task('scripts:app', function () {
                    presets: ['react']
                }))
                .pipe(concat('app.js'))
-               .pipe(gulp.dest('dist'));
+               .pipe(gulp.dest('dist/scripts'));
 });
 
 gulp.task('styles', ['styles:vendor', 'styles:app']);
@@ -39,14 +39,19 @@ gulp.task('styles:vendor', function() {
     return gulp.src(vendorStyles)
                .pipe(stylus())
                .pipe(concat('vendor.css'))
-               .pipe(gulp.dest('dist'));
+               .pipe(gulp.dest('dist/styles'));
 });
 
 gulp.task('styles:app', function() {
     return gulp.src('src/**/*.styl')
                .pipe(stylus())
                .pipe(concat('app.css'))
-               .pipe(gulp.dest('dist'));
+               .pipe(gulp.dest('dist/styles'));
+});
+
+gulp.task('flags', function() {
+    return gulp.src('node_modules/flag-icon-css/flags/**/*.svg')
+               .pipe(gulp.dest('dist/flags'));
 });
 
 gulp.task('webserver', function() {
@@ -60,6 +65,6 @@ gulp.task('watch', function() {
     gulp.watch('src/**/*.styl', ['styles:app']);
 });
 
-gulp.task('compile', ['scripts', 'styles']);
+gulp.task('compile', ['scripts', 'styles', 'flags']);
 
 gulp.task('default', ['webserver', 'compile', 'watch']);
