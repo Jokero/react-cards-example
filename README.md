@@ -1,5 +1,4 @@
 # react-cards-example
-React cards example
 
 [Demo](https://jokero.github.io/react-cards-example/)
 
@@ -8,6 +7,7 @@ React cards example
 ```sh
 npm install
 npm start
+# http://localhost:8000
 ```
 
 ## Issues during development:
