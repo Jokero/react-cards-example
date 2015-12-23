@@ -1,6 +1,6 @@
 var Card = React.createClass({
     onDelete: function() {
-        alert("It's not like! It's deleting!");
+        alert("It's not like! It's deleting :)");
     },
 
     render: function() {
@@ -58,5 +58,5 @@ var CardsList = React.createClass({
 
 ReactDOM.render(
     <CardsList title="Miss World 2015 Top 20" url="src/data.json"/>,
-    document.getElementById('content')
+    document.getElementById('cardsList')
 );

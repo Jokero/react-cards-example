@@ -2,7 +2,7 @@ var Card = React.createClass({
     displayName: "Card",
 
     onDelete: function () {
-        alert("It's not like! It's deleting!");
+        alert("It's not like! It's deleting :)");
     },
 
     render: function () {
@@ -92,4 +92,4 @@ var CardsList = React.createClass({
     }
 });
 
-ReactDOM.render(React.createElement(CardsList, { title: "Miss World 2015 Top 20", url: "src/data.json" }), document.getElementById('content'));
+ReactDOM.render(React.createElement(CardsList, { title: "Miss World 2015 Top 20", url: "src/data.json" }), document.getElementById('cardsList'));

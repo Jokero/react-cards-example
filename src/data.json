@@ -3,140 +3,140 @@
         "title":       "Sofia NIKITCHUK",
         "description": "Miss Russia",
         "url":         "http://www.missworld.com/contestants/Russia",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013471_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/ru.jpg",
         "iconClass":   "flag-icon flag-icon-ru"
     },
     {
         "title":       "Maria HARFANTI",
         "description": "TV Presenter, Student",
         "url":         "http://www.missworld.com/contestants/Indonesia",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013415_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/id.jpg",
         "iconClass":   "flag-icon flag-icon-id"
     },
     {
         "title":       "Hillarie PARUNGAO",
         "description": "Nursing Graduate",
         "url":         "http://www.missworld.com/contestants/Philippines",
-        "imageUrl":    "http://static.missworld.com/assets/1031/1030948_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/ph.jpg",
         "iconClass":   "flag-icon flag-icon-ph"
     },
     {
         "title":       "Sanneta MYRIE",
         "description": "Medical Doctor",
         "url":         "http://www.missworld.com/contestants/Jamaica",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013421_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/jm.jpg",
         "iconClass":   "flag-icon flag-icon-jm"
     },
     {
         "title":       "Lisa PUNCH",
         "description": "Singer & Actress",
         "url":         "http://www.missworld.com/contestants/Guyana",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013407_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/gy.jpg",
         "iconClass":   "flag-icon flag-icon-gy"
     },
     {
         "title":       "Ajah DENG",
         "description": "Public Relations Officer",
         "url":         "http://www.missworld.com/contestants/South-Sudan",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013487_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/ss.jpg",
         "iconClass":   "flag-icon flag-icon-ss"
     },
     {
         "title":       "Hinarere TAPUTU",
         "description": "Miss Tahiti, Miss World France",
         "url":         "http://www.missworld.com/contestants/France",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013391_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/fr.jpg",
         "iconClass":   "flag-icon flag-icon-fr"
     },
     {
         "title":       "Valerie ABOU CHACRA",
         "description": "Television Actress",
         "url":         "http://www.missworld.com/contestants/Lebanon",
-        "imageUrl":    "http://static.missworld.com/assets/1033/1032676_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/lb.jpg",
         "iconClass":   "flag-icon flag-icon-lb"
     },
     {
         "title":       "Liesl LAURIE",
         "description": "Miss South Africa",
         "url":         "http://www.missworld.com/contestants/South-Africa",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013485_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/za.jpg",
         "iconClass":   "flag-icon flag-icon-za"
     },
     {
         "title":       "Mireia LALAGUNA ROYO",
         "description": "Student : Pharmacy",
         "url":         "http://www.missworld.com/contestants/Spain",
-        "imageUrl":    "http://static.missworld.com/assets/1032/1031748_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/es.jpg",
         "iconClass":   "flag-icon flag-icon-es"
     },
     {
         "title":       "Tess ALEXANDER",
         "description": "Personal Trainer",
         "url":         "http://www.missworld.com/contestants/Australia",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013337_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/au.jpg",
         "iconClass":   "flag-icon flag-icon-au"
     },
     {
         "title":       "Margot HANEKAMP",
         "description": "Camera Operator",
         "url":         "http://www.missworld.com/contestants/Netherlands",
-        "imageUrl":    "http://static.missworld.com/assets/1031/1030875_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/nl.jpg",
         "iconClass":   "flag-icon flag-icon-nl"
     },
     {
         "title":       "Catharina CHOI NUNES",
         "description": "Student : Marketing",
         "url":         "http://www.missworld.com/contestants/Brazil",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013353_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/br.jpg",
         "iconClass":   "flag-icon flag-icon-br"
     },
     {
         "title":       "Regina VANDYSHEVA",
         "description": "Miss Kazakhstan",
         "url":         "http://www.missworld.com/contestants/Kazakhstan",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013425_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/kz.jpg",
         "iconClass":   "flag-icon flag-icon-kz"
     },
     {
         "title":       "Marta Kaja PAŁUCKA",
         "description": "Student & Horse Riding Instructor",
         "url":         "http://www.missworld.com/contestants/Poland",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013467_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/pl.jpg",
         "iconClass":   "flag-icon flag-icon-pl"
     },
     {
         "title":       "Deborah LAMBIE",
         "description": "Medical Doctor",
         "url":         "http://www.missworld.com/contestants/New-Zealand",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013455_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/nz.jpg",
         "iconClass":   "flag-icon flag-icon-nz"
     },
     {
         "title":       "Lu YUAN",
         "description": "Student: Broadcasting & Hosting",
         "url":         "http://www.missworld.com/contestants/China-PR",
-        "imageUrl":    "http://static.missworld.com/assets/1034/1033515_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/cn.jpg",
         "iconClass":   "flag-icon flag-icon-cn"
     },
     {
         "title":       "Mhairi FERGUSSON",
         "description": "Charity Ambassador",
         "url":         "http://www.missworld.com/contestants/Scotland",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013475_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/gb-sct.jpg",
         "iconClass":   "flag-icon flag-icon-gb"
     },
     {
         "title":       "María Camila MARAÑÓN SOLORZANO",
         "description": "Student: Social Communication",
         "url":         "http://www.missworld.com/contestants/Ecuador",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013379_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/ec.jpg",
         "iconClass":   "flag-icon flag-icon-ec"
     },
     {
         "title":       "Leanne  MCDOWELL",
         "description": "Student: Marketing",
         "url":         "http://www.missworld.com/contestants/Northern-Ireland",
-        "imageUrl":    "http://static.missworld.com/assets/1014/1013459_featuredImage6x4.600x.jpg",
+        "imageUrl":    "src/images/gb-nir.jpg",
         "iconClass":   "flag-icon flag-icon-gb"
     }
 ]
