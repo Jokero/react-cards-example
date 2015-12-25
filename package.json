@@ -26,7 +26,6 @@
 
     "devDependencies": {
         "gulp":               "3.9.0",
-        "gulp-watch":         "4.3.5",
         "gulp-stylus":        "2.1.2",
         "gulp-concat":        "2.6.0",
         "gulp-babel":         "6.1.1",
